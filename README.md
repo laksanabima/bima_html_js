@@ -56,6 +56,8 @@ Kode program diatas akan menampilkan!
 ```
 Bima Laksana Putra 17 true 3.14
 ```
+#### Tugas!!!
+Buatlah beberapa variable dari data studi kasus tentang Aplikasi Bank
 
 ### Kondisi (if, else if, else)
 Kondisi di dalam pemrograman sangat berperan penting dalam proses logika untuk menyelesaikan permasalahan,
